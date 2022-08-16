@@ -1,8 +1,2 @@
 /node_modules
 .env
-
-# Deploy tools
-app.yaml
-Dockerfile
-/sql_proxy
-start.sh
